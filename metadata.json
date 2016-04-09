@@ -1,0 +1,16 @@
+{
+  "name": "tmoreira2020-s3cmd",
+  "version": "0.1.0",
+  "author": "tmoreira2020",
+  "summary": "It examples with Puppet.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/tmoreira2020/puppet-s3cmd",
+  "project_page": "https://github.com/tmoreira2020/puppet-s3cmd",
+  "issues_url": "https://github.com/tmoreira2020/puppet-s3cmd/issues",
+  "dependencies": [
+    {
+      "name": "maestrodev/wget",
+      "version_requirement": ">=1.0.0"
+    }
+  ]
+}
