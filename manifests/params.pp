@@ -1,4 +1,5 @@
 class s3cmd::params {
-  $commit_sha1 = '6cdff22a6058059c80b510a1cfc56b26876f7313'
+  # 7 digits is the Git default for a short SHA
+  $commit_sha1_abbreviation = '6cdff22'
   $cache_dir   = '/tmp/vagrant-cache'
 }
